@@ -1,0 +1,7 @@
+actor: AcceptanceTester
+modules:
+    enabled:
+        - WebDriver:
+            url: https://usa.yourketo.diet.local.qa-test-task.1ff.space/logins
+            browser: chrome
+
